@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 11 15:46:18 2024
-
-@author: sanyo
-"""
 
 import tkinter as tk
 from tkinter import OptionMenu
